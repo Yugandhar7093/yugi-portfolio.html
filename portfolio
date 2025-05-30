@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>yugandhar portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color:white;
+            text-align: center;
+        }
+        header {
+            background:pink;
+            color: black;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+        .project {
+            background: white;
+            padding: 15px;
+            margin: 10px auto;
+            width: 80%;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background: black;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to My Portfolio</h1>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Hello! I'm yugandhar a web developer passionate about creating beautiful and functional websites and iam specialized in cybersecurity and webdevelopment.</p>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <div class="project">
+        <h3>Project 1</h3>
+        <p>iam completed my internship in amazon course of aws.</p>
+    </div>
+    <div class="project">
+        <h3>Project 2</h3>
+        <p>i have created a voice over chatgp throw hundred lines of code by help of skill shop.</p>
+    </div>
+</section>
+
+<footer>
+    <p>Contact me at:7093125212
+        yugandharkorupolu153@gmail.com</p>
+</footer>
+
+</body>
+</html>
+
